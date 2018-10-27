@@ -3,7 +3,7 @@ def instantiate_new_array
 end 
 
 def array_with_two_elements
-   @my_two_array = Array.new()
+   @my_two_array = Array.new(2)
    size = @my_two_array.size 
    return size 
   
