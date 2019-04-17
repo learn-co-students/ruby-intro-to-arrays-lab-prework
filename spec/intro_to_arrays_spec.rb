@@ -34,7 +34,7 @@ describe "working with arrays" do
         size = @my_two_array.size
         expect(size).to eq(2)
       end
-    end
+   end
   end
 
   context 'indexing' do
